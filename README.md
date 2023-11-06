@@ -1,2 +1,1 @@
-# CardiusAED
-Projet de fin de baccalauréat de l'équipe Cardius 
+S8-UDES-AI
